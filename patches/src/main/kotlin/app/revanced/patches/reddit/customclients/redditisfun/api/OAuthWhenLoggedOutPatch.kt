@@ -29,6 +29,7 @@ val oAuthWhenLoggedOutPatch = oAuthWhenLoggedOutPatch() { clientIdOption ->
 
     dependsOn(
         // Replace api.reddit.com with oauth.reddit.com for all unauthenticated requests
+        replaceStringPatch("www.reddit.com", "oauth.reddit.com"),
         replaceStringPatch("api.reddit.com", "oauth.reddit.com"),
     )
 
