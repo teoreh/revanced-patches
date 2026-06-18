@@ -1,3 +1,10 @@
+# 1.0.0 (2026-06-18)
+
+
+### Features
+
+* Add OAuth patch ([1bf1a78](https://github.com/teoreh/revanced-patches/commit/1bf1a780de9f017dafb302d731458ccf6ea753b9))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
