@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/teoreh/revanced-patches/compare/v1.0.0...v1.0.1) (2026-06-18)
+
+
+### Bug Fixes
+
+* gpg release config ([3866022](https://github.com/teoreh/revanced-patches/commit/38660229b19d59c75fd9f7524850bccf3ea392e0))
+
 # 1.0.0 (2026-06-18)
 
 
