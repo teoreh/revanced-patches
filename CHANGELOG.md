@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/teoreh/revanced-patches/compare/v1.0.1...v1.1.0) (2026-06-18)
+
+
+### Features
+
+* working gallery posts ([ba31dd4](https://github.com/teoreh/revanced-patches/commit/ba31dd430e9c99c81825d241016a4cc6adb5ca24))
+
 ## [1.0.1](https://github.com/teoreh/revanced-patches/compare/v1.0.0...v1.0.1) (2026-06-18)
 
 
