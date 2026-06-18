@@ -16,7 +16,6 @@ pluginManagement {
 }
 
 val user = providers.gradleProperty("gpr.user").orNull ?: System.getenv("GITHUB_ACTOR")
-println("DEBUG REVANCED: Authenticating with user: $user")
 
 plugins {
     id("app.revanced.patches") version "1.0.0-dev.8"

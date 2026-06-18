@@ -50,3 +50,10 @@ kotlin {
 apiValidation {
     validationDisabled = true
 }
+
+// Disable all signing tasks on the CI runner
+tasks.configureEach {
+    if (name.contains("sign", ignoreCase = true)) {
+        enabled = false
+    }
+}
